@@ -10,6 +10,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px;
+    font-family: "Poppins", sans-serif;
 }
 
 .cabecalho-imagem {
@@ -22,23 +23,27 @@
     font-size: 24px;
 }
 
-.escola-imagem{
+.escola-imagem {
     width: 25%;
 }
 
-.escola{
-    background-image: linear-gradient(#000000,#C0C0C0);
+.escola {
+    background-image: linear-gradient(#000000, #C0C0C0);
     color: #FFFFFF;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px;
+    font-family: "Poppins", sans-serif;
 }
 
-.escola-div-conteudo{
+.escola-div-conteudo {
     width: 35%;
+    text-align: center;
 }
 
-.escola-titulo{
-    padding: 24px 0;
+.escola-titulo {
+    padding: 10px 0;
+    font-size: 35px;
+    text-align: center;
 }
