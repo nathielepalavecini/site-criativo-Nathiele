@@ -48,10 +48,40 @@
     text-align: center;
 }
 
-.estudante-imagem{
+.estudante-imagem {
     width: 200px;
 }
 
-.estudante-icone{
+.estudante-icone {
     width: 64px;
+}
+
+.estudante-div {
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.estudante{
+    background-image: linear-gradient(#C0C0C0,#C0C0C0);
+}
+
+.estudante-titulo{
+    text-align: center;
+    font-size: 32px;
+    padding: 30px;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.rodape{
+    text-align: center;
+    background-color: #000000;
+}
+
+.rodape-imagem{
+    height: 100px;
+    padding: 12px 0;
 }
